@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #6563ff;
+    background: rgb(54, 126, 235);
 }
 .wrapper {
     padding: 25px;
@@ -48,7 +48,7 @@ body {
 .front-view {
     font-size: 30px;
     font-weight: 600;
-    color: #6563ff;
+    color: rgb(54, 126, 235);
 }
 @keyframes shake {
     0%,
